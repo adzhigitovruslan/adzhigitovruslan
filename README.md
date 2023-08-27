@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">Tech stack:</h3>
+<h3 align="left">Tech stack</h3>
 
 ###
 
@@ -52,20 +52,23 @@
 
 ###
 
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=adzhigitovruslan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adzhigitovruslan" /></p>
-
-<p>&nbsp;<img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=adzhigitovruslan&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="adzhigitovruslan" /></p>
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<h3 align="left">Stats</h3>
 
 ###
 
-![Snake animation](https://github.com/adzhigitovruslan/adzhigitovruslan/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=adzhigitovruslan&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="adzhigitovruslan" /></p>
+<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=adzhigitovruslan&show_icons=true&locale=en&count_private=true&theme=react&border_radius=10" alt="adzhigitovruslan" /></p>
+</div>
 
 ###
+
+<h3 align="left">My contributions</h3>
+
+<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>

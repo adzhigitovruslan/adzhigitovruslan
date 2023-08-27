@@ -56,8 +56,16 @@
 
 <p>&nbsp;<img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=adzhigitovruslan&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="adzhigitovruslan" /></p>
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 ###
 
-<img src="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/adzhigitovruslan/adzhigitovruslan/blob/output/github-contribution-grid-snake.svg)
 
 ###

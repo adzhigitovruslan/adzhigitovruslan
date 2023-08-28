@@ -53,11 +53,10 @@
 ###
 
 <h3 align="left">Codewars</h3>
-
-###
-
+<div align="left">
 <img width="12" />
 <img src="https://www.codewars.com/users/rsschool_21500b813a059949/badges/large" height="40" alt="codewars_stats" />
+</div>
 
 ###
 
